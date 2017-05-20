@@ -14,6 +14,7 @@ Steps to run the application:
 
 
 References:
+
 •	http://stackoverflow.com/questions/8317957/how-to-instruct-eclipse-to-record-relative-paths-of-the-external-jars
 •	https://mvnrepository.com/artifact/javax.mail/mail/1.4.7
 •	http://stackoverflow.com/questions/2811001/how-to-read-xml-using-xpath-in-java
